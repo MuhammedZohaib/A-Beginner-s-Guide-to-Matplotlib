@@ -182,5 +182,3 @@ fig.savefig("sports_weights.png")
 ```
 
 ---
-
-?descriptionFromFileType=function+toLocaleUpperCase()+{+[native+code]+}+File&mimeType=application/octet-stream&fileName=A+Beginner's+Guide+to+Matplotlib.md&fileType=undefined&fileExtension=md
